@@ -1,1 +1,12 @@
-create test 
+<html> 
+<head> 
+<script type="text/javascript"> 
+function displaymessage() 
+{ 
+document.write("Hi ... welcome to UOK"); 
+} 
+</script> 
+</head> 
+<body onload="displaymessage()"> 
+</body> 
+</html>
